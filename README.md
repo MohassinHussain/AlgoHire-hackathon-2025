@@ -37,14 +37,14 @@ A real-time collaborative platform for recruiters and hiring managers to interac
 
 ## 🛠️ Getting Started
 
-### 1️⃣ Clone / Fork the Repository
+### 1. Clone / Fork the Repository
 
 ```bash
 git clone https://github.com/your-username/camper-candidate-notes.git
 cd camper-candidate-notes
 
-
-## 2️⃣ Split the Terminal into Two Tabs from Root
+```
+### 2️. Split the Terminal into Two Tabs from Root
 
 ### 📂 Tab 1 – Frontend Setup (Next.js)
 
@@ -52,7 +52,7 @@ cd camper-candidate-notes
 cd camper
 npm install
 npm install <required libraries ref package.json>
-
+```
 ### 📂 Tab 2 – Backend Setup (Express Server)
 ```bash
 cd server
@@ -61,7 +61,7 @@ npm install
 nodemon index.js
 # OR
 node index.js
-
+```
 ## .env Setup
 # For Express Server
 MONGO_URI=your_mongodb_connection_string
