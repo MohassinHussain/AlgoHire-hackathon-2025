@@ -73,9 +73,8 @@ JWT_SECRET=your_super_secret
 
 Let me know if you'd like:
 
-- To include screenshots in the `📸 Screenshots` section
-- A zipped `.env.example`
-- GitHub badges (build passing, license, etc.)
-Contact me - mohassinhussain22@gmail.com
+- To include screenshots in the `📸 Screenshots` section - if any error
+- If ther are any queries connect with me in discord username: mohassinhussaain
+- Contact me - mohassinhussain22@gmail.com
 I can also help you push this directly to your repo.
 
