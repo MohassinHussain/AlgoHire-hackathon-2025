@@ -76,6 +76,6 @@ Let me know if you'd like:
 - To include screenshots in the `📸 Screenshots` section
 - A zipped `.env.example`
 - GitHub badges (build passing, license, etc.)
-
+Contact me - mohassinhussain22@gmail.com
 I can also help you push this directly to your repo.
 
